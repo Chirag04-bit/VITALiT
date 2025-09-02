@@ -5,7 +5,7 @@
 📂 The repository contains a Digital Twin framework for real-time physiological monitoring using Raspberry Pi and biomedical sensors. Includes sensor integration, cloud sync (MQTT/REST), AI models (LSTM), dashboards, and alert mechanisms for healthcare applications.
 
 ---
-🏗️ Architecture
+## 🏗️ Architecture
 
 The repository contains the following core components of the Digital Twin framework for healthcare monitoring:
 
@@ -22,6 +22,8 @@ Dashboard – Real-time visualization of patient vitals using Node-RED or Grafan
 Feedback & Alerts – Sends notifications to caregivers and optionally connects to actuators such as oxygen concentrators or medicine dispensers.
 
 ---
+## 📂 Repository Structure
+```bash
 📦 digital-twin-healthcare
 │
 ├── 📁 hardware
@@ -55,5 +57,7 @@ Feedback & Alerts – Sends notifications to caregivers and optionally connects 
 ├── LICENSE
 ├── README.md                  # Project intro & usage
 └── requirements.txt           # Python dependencies
+```
 ---
+##Architecture
 
