@@ -59,8 +59,9 @@ Feedback & Alerts – Sends notifications to caregivers and optionally connects 
 └── requirements.txt           # Python dependencies
 ```
 ---
-##👥 Team Members
 
+##👥 Team Members
+'''bash
 👤 Member 1 – ATANU SASMAL
 
 👤 Member 2 – AYAN KUMAR 
@@ -80,5 +81,5 @@ Feedback & Alerts – Sends notifications to caregivers and optionally connects 
 👤 Member 9 – DEBOSMITA SAHA 
 
 👤 Member 10 – DEVANSH GANGULY
-
+'''
 ---
