@@ -59,5 +59,3 @@ Feedback & Alerts – Sends notifications to caregivers and optionally connects 
 └── requirements.txt           # Python dependencies
 ```
 ---
-##Architecture
-
