@@ -59,7 +59,7 @@ Feedback & Alerts – Sends notifications to caregivers and optionally connects 
 └── requirements.txt           # Python dependencies
 ```
 ---
-### 👥 Architecture
+### 👥 Members
 
 
 👤 Member 1 – ATANU SASMAL
