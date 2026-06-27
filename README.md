@@ -61,25 +61,8 @@ Feedback & Alerts – Sends notifications to caregivers and optionally connects 
 ---
 ### 👥 Members
 
+👤 Member 1 – CHIRAG SHARMA
 
-👤 Member 1 – ATANU SASMAL
-
-👤 Member 2 – AYAN KUMAR 
-
-👤 Member 3 – AYUSH SAHA 
-
-👤 Member 4 – BITTU SHARMA
-
-👤 Member 5 – CHIRAG SHARMA
-
-👤 Member 6 – CHIRANJIT BISWAS
-
-👤 Member 7 – DEBAPRIYA KARMAKAR
-
-👤 Member 8 – DEBATRAYA ROY 
-
-👤 Member 9 – DEBOSMITA SAHA 
-
-👤 Member 10 – DEVANSH GANGULY
-
+👤 Member 2 – DEBAPRIYA KARMAKAR
 ---
+
